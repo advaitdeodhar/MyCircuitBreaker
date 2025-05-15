@@ -1,10 +1,10 @@
-# Lucidity ( Custom Circuit Breaker Implementation )
+# Custom Circuit Breaker Implementation
 
 
 
 ## Background
 
-- This is a stand-alone java library is built as a coding assignment for Interview round at Lucidity
+- This is a stand-alone java library is built as a coding assignment
 - Circuit Breaker is resilience pattern that stops invoking failing service temporarily to avoid repetitive failures in micro-services 
 
 ## Insights 
